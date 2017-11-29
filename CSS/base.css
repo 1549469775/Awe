@@ -1,0 +1,5 @@
+
+input:-ms-input-placeholder{color:#fff;}/* Internet Explorer 10+ */
+input::-webkit-input-placeholder{color:#fff;}/* WebKit browsers */
+input::-moz-placeholder{color:#fff;}/* Mozilla Firefox 4 to 18 */
+input:-moz-placeholder{color:#fff;}/* Mozilla Firefox 19+ */
